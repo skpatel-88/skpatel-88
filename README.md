@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.jpg" alt="Sandeep Kumar Patel" width="100%" style="border-radius: 10px;"/>
+  <img src="assets/profile-banner.png" alt="Sandeep Kumar Patel" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <h1 align="center">Hello! 👋😊 Namaste! 🙏 I'm Sandeep 👋</h1>

@@ -1,4 +1,8 @@
-# Hello! 👋😊 Namaste! 🙏 I'm Sandeep 👋
+<p align="center">
+  <img src="assets/profile-banner.jpg" alt="Sandeep Kumar Patel" width="100%" style="border-radius: 10px;"/>
+</p>
+
+<h1 align="center">Hello! 👋😊 Namaste! 🙏 I'm Sandeep 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Infrastructure+Expert;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+Pipeline+Specialist;Automation+Enthusiast" alt="Typing SVG" />
@@ -10,7 +14,7 @@
 - 🌱 Currently deep diving into **AWS services** and improving my skills in **Infrastructure as Code (IaC)** using **Terraform** and **CloudFormation**.
 - 💼 I work with **AWS**, **Docker**, **Kubernetes**, **CI/CD** tools, and more to help organizations streamline their development and deployment processes.
 - 🚀 Passionate about **automating workflows**, optimizing cloud environments, and ensuring **scalable, secure** applications.
-- 📫 How to reach me: [Email] | [LinkedIn] | [Medium Blog]
+- 📫 How to reach me: [Email](mailto:patelsandeep88@gmail.com) | [LinkedIn](https://in.linkedin.com/in/sandeep-kumar-patel-95774b18b) | [Medium Blog](https://patelsandeep88.medium.com/)
 
 ---
 
@@ -91,9 +95,9 @@ Here are some key projects I've worked on:
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@your-profile"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:patelsandeep88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://in.linkedin.com/in/sandeep-kumar-patel-95774b18b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://patelsandeep88.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://github.com/skpatel-88"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -103,7 +107,7 @@ Here are some key projects I've worked on:
 ---
 
 <p align="center">
-  <i>"DevOps is not a job title, it's a mindset." – Unknown</i>
+  <i>"DevOps is not a job title, it's a mindset." – Sandeep</i>
 </p>
 
 <p align="center">

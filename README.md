@@ -1,7 +1,6 @@
-<img width="478" height="472" alt="image" src="https://github.com/user-attachments/assets/b8a644ec-d65c-4b02-b913-25e4404c6749" />## Hi there 👋
+## Hi there 👋
 
 
-<!--
 **skpatel-88/skpatel-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->

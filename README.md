@@ -111,5 +111,5 @@ Here are some key projects I've worked on:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skpatel-88&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=skpatel-88&color=blueviolet&style=flat-square&label=Profile+Views" alt="👁️ Total Profile Visitors Count" />
 </p>

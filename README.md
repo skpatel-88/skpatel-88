@@ -79,7 +79,7 @@ Here are some key projects I've worked on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=skpatel-88&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skpatel-88&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ Here are some key projects I've worked on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=skpatel-88&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skpatel-88&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---

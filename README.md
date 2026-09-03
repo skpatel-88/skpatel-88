@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.png" alt="Sandeep Kumar Patel" width="100%" style="border-radius: 10px;"/>
+  <img src="assets/sandeep-bgm.png" alt="Sandeep Kumar Patel" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <h1 align="center">Hello! 👋😊 Namaste! 🙏 I'm Sandeep 👋</h1>
@@ -78,10 +78,12 @@ Here are some key projects I've worked on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skpatel-88&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=skpatel-88&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=skpatel-88&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=skpatel-88&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" /></td>
+  </tr>
+</table>
 
 ---
 

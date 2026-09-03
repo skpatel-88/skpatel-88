@@ -80,7 +80,7 @@ Here are some key projects I've worked on:
 
 <table align="center">
   <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=skpatel-88&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=skpatel-88&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" /></td>
     <td><img src="https://streak-stats.demolab.com?user=skpatel-88&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" /></td>
   </tr>
 </table>

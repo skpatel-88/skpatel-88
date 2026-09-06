@@ -99,7 +99,17 @@ Here are some key projects I've worked on:
 
 ---
 
-## 🏆 GitHub Trophies
+## � Play Tic-Tac-Toe
+
+<p align="center">
+  <a href="https://skpatel-88.github.io/skpatel-88/">
+    <img src="https://img.shields.io/badge/Play-Tic--Tac--Toe-2E9EF7?style=for-the-badge&logo=github&logoColor=white" alt="Play Tic-Tac-Toe" />
+  </a>
+</p>
+
+---
+
+## �🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=skpatel-88&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />

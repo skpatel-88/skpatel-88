@@ -128,7 +128,7 @@ Here are some key projects I've worked on:
 
 💬 Open to discussing DevOps practices, cloud infrastructure, and automation solutions.  
 
-🌍 Currently located in ** Greater Noida **.
+🌍 Currently located in <span style="color:#2E9EF7"><strong>Greater Noida</strong></span>.
 
 ---
 

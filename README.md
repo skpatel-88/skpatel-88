@@ -87,7 +87,7 @@ Here are some key projects I've worked on:
 
 ---
 
-## � GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=skpatel-88&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -95,7 +95,7 @@ Here are some key projects I've worked on:
 
 ---
 
-## �🌐 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:patelsandeep88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>

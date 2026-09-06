@@ -14,6 +14,7 @@
 - 🌱 Currently deep diving into **AWS services** and improving my skills in **Infrastructure as Code (IaC)** using **Terraform** and **CloudFormation**.
 - 💼 I work with **AWS**, **Docker**, **Kubernetes**, **CI/CD** tools, and more to help organizations streamline their development and deployment processes.
 - 🚀 Passionate about **automating workflows**, optimizing cloud environments, and ensuring **scalable, secure** applications.
+- 🏢 Currently working at **Coforge Limited**.
 
 ---
 

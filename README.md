@@ -127,7 +127,16 @@ Here are some key projects I've worked on:
 </p>
 
 💬 Open to discussing DevOps practices, cloud infrastructure, and automation solutions.  
-🌍 Currently located in ** Greater Noida**.
+
+🌍 Currently located in ** Greater Noida **.
+
+---
+
+## 💬 Daily Motivation
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Motivational Quote" />
+</p>
 
 ---
 

@@ -14,7 +14,6 @@
 - 🌱 Currently deep diving into **AWS services** and improving my skills in **Infrastructure as Code (IaC)** using **Terraform** and **CloudFormation**.
 - 💼 I work with **AWS**, **Docker**, **Kubernetes**, **CI/CD** tools, and more to help organizations streamline their development and deployment processes.
 - 🚀 Passionate about **automating workflows**, optimizing cloud environments, and ensuring **scalable, secure** applications.
-- 📫 How to reach me: [Email](mailto:patelsandeep88@gmail.com) | [LinkedIn](https://in.linkedin.com/in/sandeep-kumar-patel-95774b18b) | [Medium Blog](https://patelsandeep88.medium.com/)
 
 ---
 
@@ -127,7 +126,7 @@ Here are some key projects I've worked on:
 </p>
 
 💬 Open to discussing DevOps practices, cloud infrastructure, and automation solutions.  
-🌍 Currently located in **Coforge at Greater Noida**.
+🌍 Currently located in ** Greater Noida**.
 
 ---
 
